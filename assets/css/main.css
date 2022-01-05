@@ -50,9 +50,9 @@ body {
 }
 
 mark {
-	background-color: yellow;
-	opacity: .2;
+	background-color: rgba(255, 255, 0, .2);
 	color: inherit;
+
 }
 
 input::-moz-focus-inner {
